@@ -11,7 +11,7 @@ const getSeries = (req, res) => {
 		return el.programType === 'series'
 	});
 	
-	res.json({
+	res.status(200).json({
 		count:series.length,
 		result: series,
 		status: "OK"
@@ -26,7 +26,7 @@ const getMovies = (req,res) => {
 		return el.programType === 'movie'
 	});
 	
-	res.json({
+	res.status(200).json({
 		count:movies.length,
 		result: movies,
 		status: "OK"

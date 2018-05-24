@@ -9,6 +9,7 @@ const helmet        = require('helmet');
 const app = express();
 
 module.exports = function (config,callback) {
+	app.disable('etag');
 	app.use(helmet());
   app.use(morgan('[:date[iso]] :method :url :status'));
   app.use(bodyParser.json({limit: '50mb'}));
@@ -17,7 +18,7 @@ module.exports = function (config,callback) {
 	app.use(function (req, res, next) {
 		res.setHeader('Access-Control-Allow-Origin', '*');
 		res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-		res.setHeader('Access-Control-Allow-Headers', 'X-AuthToken','content-type');
+		res.setHeader('Access-Control-Allow-Headers', 'authorization','content-type');
 		res.setHeader('Access-Control-Allow-Credentials', true);
 		next();
 	});
