@@ -1,0 +1,80 @@
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:09:59"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:09:59"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:09:59"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:09:59"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:09:59"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:11:19"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:12:54"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:12:54"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:12:54"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:12:54"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:12:54"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:12:58"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:15:14"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:15:14"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:15:14"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:15:14"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:15:14"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:15:18"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:15:52"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:15:52"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:15:52"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:15:52"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:15:52"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:15:54"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:16:39"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:16:39"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:16:39"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:16:39"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:16:39"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:16:41"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:17:17"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:17:17"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:17:17"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:17:17"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:17:17"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:17:20"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:18:42"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:18:42"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:18:42"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:18:42"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:18:42"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:18:44"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:19:07"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:19:07"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:19:07"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:19:07"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:19:07"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:19:08"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:19:16"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:19:16"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:19:16"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:19:16"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:19:16"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:19:18"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:20:19"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:20:19"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:20:19"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:20:19"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:20:19"}
+{"level":"info","message":"Get movies Fired","timestamp":"2018-5-24 04:20:26"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:24:20"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:24:20"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:24:20"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:24:20"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:24:20"}
+{"level":"info","message":"Get movies Fired","timestamp":"2018-5-24 04:24:23"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:25:08"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:25:08"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:25:08"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:25:08"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:25:08"}
+{"level":"info","message":"Get movies Fired","timestamp":"2018-5-24 04:25:13"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:25:20"}
+{"level":"info","message":"[APP] Starting server initialization","timestamp":"2018-5-24 04:27:53"}
+{"level":"info","message":"[SERVER] Initializing express","timestamp":"2018-5-24 04:27:53"}
+{"level":"info","message":"[EXPRESS] 3000","timestamp":"2018-5-24 04:27:53"}
+{"level":"info","message":"[SERVER] Initializing routes","timestamp":"2018-5-24 04:27:53"}
+{"level":"info","message":"[APP] initialized SUCCESSFULLY","timestamp":"2018-5-24 04:27:53"}
+{"level":"info","message":"Get Series Fired","timestamp":"2018-5-24 04:27:55"}
+{"level":"info","message":"Get movies Fired","timestamp":"2018-5-24 04:28:02"}
